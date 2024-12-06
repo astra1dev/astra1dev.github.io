@@ -48,7 +48,7 @@ Features:
 
 ## 3. MT Manager
 
-<img width=144 height=144 src="https://mt2.cn/logo.png">
+<img width=144 height=144 alt="MT Manager Icon" src="https://mt2.cn/logo.png">
 
 **developer & modding tool, specialized on apk, xml, arsc, dex files**
 
@@ -58,7 +58,7 @@ Note: This app can do a lot of things, however, it's closed source and from a ch
 
 ## 4. Game Guardian
 
-<img width=144 height=144 src="https://static.gameguardian.net/monthly_2016_12/logo.png.7ea0bf50a92f70ebc7ff10aa74e1dd55.png">
+<img width=144 height=144 alt="GameGuardian Icon" src="https://static.gameguardian.net/monthly_2016_12/logo.png.7ea0bf50a92f70ebc7ff10aa74e1dd55.png">
 
 **game cheat / hack / alteration tool. With it, you can modify money, HP, SP, and much more.**
 
@@ -163,7 +163,7 @@ Features:
 
 ## 9. App Cloner
 
-<img width=144 height=144 src="https://appcloner.app/dist/assets/web_hi_res_512.png">
+<img width=144 height=144 alt="App Cloner Icon" src="https://appcloner.app/dist/assets/web_hi_res_512.png">
 
 **create & install multiple copies of apps**
 
@@ -273,7 +273,7 @@ distributions.
 
 ## 15. CyberChef
 
-<img height=144 width=144 src="https://raw.githubusercontent.com/gchq/CyberChef/refs/heads/master/src/web/static/images/logo/cyberchef_hat_512.png">
+<img height=144 width=144 alt="App Cloner Icon" src="https://raw.githubusercontent.com/gchq/CyberChef/refs/heads/master/src/web/static/images/logo/cyberchef_hat_512.png">
 
 **The Cyber Swiss Army Knife - a web app for encryption, encoding, compression and data analysis**
 
