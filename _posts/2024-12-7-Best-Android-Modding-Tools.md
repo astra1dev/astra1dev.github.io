@@ -273,7 +273,7 @@ distributions.
 
 ## 15. CyberChef
 
-<img height=144 width=144 alt="App Cloner Icon" src="https://raw.githubusercontent.com/gchq/CyberChef/refs/heads/master/src/web/static/images/logo/cyberchef_hat_512.png">
+<img height=144 width=144 alt="CyberChef Icon" src="https://raw.githubusercontent.com/gchq/CyberChef/refs/heads/master/src/web/static/images/logo/cyberchef_hat_512.png">
 
 **The Cyber Swiss Army Knife - a web app for encryption, encoding, compression and data analysis**
 
@@ -285,7 +285,7 @@ The tool is designed to enable both technical and non-technical analysts to mani
 
 ## 16. TotalCommander
 
-<img src="https://play-lh.googleusercontent.com/lM0QEXudqdbrn5SUd5Nb1DuG7Qd8cpCm9VUni6qzMEIGsixPkGUIChOQ4gjkf2ic8A=w144-h144-rw">
+![](https://play-lh.googleusercontent.com/lM0QEXudqdbrn5SUd5Nb1DuG7Qd8cpCm9VUni6qzMEIGsixPkGUIChOQ4gjkf2ic8A=w144-h144-rw)
 
 **powerful shareware file manager**
 
@@ -303,7 +303,7 @@ Main features:
 
 ## 17. LogFox
 
-<img src="https://raw.githubusercontent.com/F0x1d/LogFox/refs/heads/master/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png">
+![](https://raw.githubusercontent.com/F0x1d/LogFox/refs/heads/master/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png)
 
 **LogCat reader which supports filters, recordings, crashes observing, and many more**
 
