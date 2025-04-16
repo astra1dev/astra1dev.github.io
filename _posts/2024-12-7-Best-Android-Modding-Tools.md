@@ -52,7 +52,7 @@ Features:
 
 **developer & modding tool, specialized on apk, xml, arsc, dex files**
 
-**Download:** [https://mt2.cn](https://mt2.cn), [https://t.me/s/mtmanager](https://t.me/s/mtmanager)
+**Download:** [Website](https://mt2.cn), [Telegram](https://t.me/s/mtmanager)
 
 Note: This app can do a lot of things, however, it's closed source and from a chinese developer, so the legitimacy and safety can't be proven. Some antiviruses flag it as "riskware".
 
@@ -87,7 +87,7 @@ Features:
 - App locale for over 50 languages.
 - And, much, much more.
 
-**Download:** [https://gameguardian.net/forum/files/file/2-gameguardian/](https://gameguardian.net/forum/files/file/2-gameguardian/)
+**Download:** [Website](https://gameguardian.net/forum/files/file/2-gameguardian/)
 
 ## 5. Lucky Patcher
 
@@ -95,7 +95,7 @@ Features:
 
 **modify, patch, bypass billing, remove ads, and more for apps**
 
-**Download:** [https://luckypatchers.com](https://luckypatchers.com)
+**Download:** [Website](https://luckypatchers.com)
 
 
 ## 6. PCAPdroid
@@ -173,7 +173,7 @@ You can change the app name and icon. You can remove permissions or allow a clon
 
 App Cloner can extend a cloned app to add functionality such as password protection, incognito mode, hiding the Android ID or spoofing locations. You can also force the app to consume data over Wi-Fi only. There are over 200 app customization options and each update will add more.
 
-**Download:** [https://appcloner.app/](https://appcloner.app/)
+**Download:** [Website](https://appcloner.app/)
 
 Note: The developers have increased the price for the premium subscription and locked more and more features behind the paywall. You can use [Insular](https://gitlab.com/secure-system/Insular), [Limbo](https://github.com/limboemu/limbo), [Shelter](https://github.com/PeterCxy/Shelter) or [VMOS](https://www.vmos.com/) instead.
 
@@ -234,7 +234,7 @@ Key features:
 - Analyze and manage your storage: Cx File Explorer provides visualized storage analysis so that you can quickly scan the available space and manage it. The Recycle bin also helps you easily manage your storage.
 - Clean up storage quickly: Discover and clean junk files, duplicate files and unused apps in storage cleaner.
 
-**Download:** [https://play.google.com/store/apps/details?id=com.cxinventor.file.explorer](https://play.google.com/store/apps/details?id=com.cxinventor.file.explorer)
+**Download:** [Play Store](https://play.google.com/store/apps/details?id=com.cxinventor.file.explorer)
 
 ## 13. ReVanced Manager
 
@@ -282,3 +282,37 @@ CyberChef is a simple, intuitive web app for carrying out all manner of "cyber" 
 The tool is designed to enable both technical and non-technical analysts to manipulate data in complex ways without having to deal with complex tools or algorithms. It was conceived, designed, built and incrementally improved by an analyst in their 10% innovation time over several years.
 
 **Use it now:** [https://gchq.github.io/CyberChef/](https://gchq.github.io/CyberChef/)
+
+## 16. TotalCommander
+
+<img src="https://play-lh.googleusercontent.com/lM0QEXudqdbrn5SUd5Nb1DuG7Qd8cpCm9VUni6qzMEIGsixPkGUIChOQ4gjkf2ic8A=w144-h144-rw">
+
+**powerful shareware file manager**
+
+Main features:
+- Typical file manager features such as renaming, moving, deleting, (un)zipping files in a two panels side-by-side view
+- Built-in media player and text editor
+- Bookmarks
+- Directory history
+- Configurable button bar for changing directories, internal commands, launching apps, and sending shell commands
+- Show list of installed apps
+- Root support
+- Plugins available for (S)FTP, LAN, WebDAV
+
+**Downloads:** [Website](https://www.ghisler.com/ce.htm) - [Play Store](https://play.google.com/store/apps/details?id=com.ghisler.android.TotalCommander)
+
+## 17. LogFox
+
+<img src="https://raw.githubusercontent.com/F0x1d/LogFox/refs/heads/master/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png">
+
+**LogCat reader which supports filters, recordings, crashes observing, and many more**
+
+Features:
+- Shizuku, Root & ADB support
+- Record logs and export to ZIP with device info
+- Observe and get notifications about Java/JNI crashes and ANRs
+- Powerful filters for logs
+- Accessibility support
+- Material You design
+
+**Downloads:** [F-Droid](https://f-droid.org/de/packages/com.f0x1d.logfox/) - [Source Code](https://github.com/F0x1d/LogFox)
