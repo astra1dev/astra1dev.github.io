@@ -3,7 +3,7 @@ title: Best Android Modding Tools
 date: 2024-12-07 00:42:10 +0100
 description: A comprehensive list of useful Android Apps for Developers, Modders, and Powerusers.
 categories: []
-tags: []     # TAG names should always be lowercase
+tags: ["tools", "modding", "android"]     # TAG names should always be lowercase
 image:
     path: https://developer.android.com/static/guide/practices/ui_guidelines/images/adaptive-icon-mask-applied.png
     alt: android icon
